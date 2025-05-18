@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Monday-D/count.svg?"  />
+  <img src="www.linkedin.com/in/pranshi16"  />
 </div>
 
 ###
